@@ -144,8 +144,14 @@ The evidence below shows the working system across normal processing, exception 
 
 ![Successful batch processor execution](evidence/execution/02-batch-processor-success.png)
 
-- [Watch Gmail intake execution](demos/01-gmail-intake-success.mp4)
-- [Watch batch processor execution](demos/02-batch-processor-success.mp4)
+
+
+https://github.com/user-attachments/assets/954fa984-791d-447b-939b-fbca0de7195a
+
+
+https://github.com/user-attachments/assets/5a06f71d-5f35-457d-8d44-43f8a563de4a
+
+
 
 The intake and batch-processing evidence shows invoice files entering the controlled path and completing the processing handoff.
 
@@ -165,7 +171,11 @@ The review notification surfaces the exception and directs the reviewer to the c
 
 ![Review decision recorded](evidence/execution/06-review-decision-recorded.png)
 
-- [Watch the review interaction](demos/03-human-review-request-correction.mp4)
+
+
+https://github.com/user-attachments/assets/21a69954-59b5-4d69-acef-079a0296d977
+
+
 
 The reviewer works from the current stored record, submits a permitted decision, and the accepted result is recorded by the review workflow.
 
@@ -173,7 +183,13 @@ The reviewer works from the current stored record, submits a permitted decision,
 
 ![Audit record updated](evidence/execution/07-audit-record-updated.png)
 
-- [Watch the audit record update](demos/04-audit-record-update.mp4)
+
+
+
+https://github.com/user-attachments/assets/91c374b6-dbb4-49bb-a45e-07f6d74f4288
+
+
+
 
 The resulting review state is persisted to the Invoice Operations Register rather than existing only in the review page or notification email.
 
@@ -190,7 +206,10 @@ The consolidated workbook presents operational state across separate views rathe
 | Completed reviews | [View screenshot](evidence/reporting/03-completed-reviews.png) |
 | Exceptions and duplicate activity | [View screenshot](evidence/reporting/04-exceptions-and-duplicate-activity.png) |
 
-[Watch the management workbook walkthrough](demos/05-management-report-workbook.mp4)
+
+https://github.com/user-attachments/assets/11ecfba0-3f47-4b4c-83e1-1cc8156a345a
+
+
 
 ## Technology
 
