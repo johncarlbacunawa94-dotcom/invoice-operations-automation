@@ -8,6 +8,16 @@ Review decisions are written back to the invoice register so the operational rec
 
 The public repository focuses on architecture, execution evidence, review controls, and reporting. Environment-specific workflow exports and credentials are intentionally excluded.
 
+## Architecture Overview
+
+[![Invoice Operations Automation architecture](evidence/architecture/01-architecture-overview.gif)](ARCHITECTURE.md)
+
+The architecture separates controlled invoice intake, batch processing, persistent operational state, human review, independent reporting, and technical failure handling.
+
+The **Invoice Operations Register** is the persistent source of truth shared across processing, review, and reporting.
+
+[View the detailed architecture documentation →](ARCHITECTURE.md)
+
 ## What this system handles
 
 - Accepts invoice messages and attachments from Gmail
