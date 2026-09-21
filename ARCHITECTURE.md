@@ -1,4 +1,5 @@
 # Architecture
+![Invoice Operations Automation architecture](evidence/architecture/01-architecture-overview.png)
 
 The project is organized as seven n8n workflows around a persistent Invoice Operations Register. The workflows are separated by responsibility so intake, processing, review, reporting, and failure handling can be tested and maintained independently.
 
